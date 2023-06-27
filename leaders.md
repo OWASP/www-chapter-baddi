@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sahil Sharma](mailto:sahil.sharma@owasp.org)
+* [Sachin Sharma](mailto:aslisa.chin@owasp.org)
