@@ -29,6 +29,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
+Meetup at Chandigarh University 
+Date - 28-09-2023
 {% include chapter_events.html group=page.meetup-group %}
 
 <!-- You should delete this comment
